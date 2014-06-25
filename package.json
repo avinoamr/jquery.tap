@@ -1,14 +1,14 @@
 {
-  "name": "jquery.tap.js",
-  "version": "0.0.1",
+  "name": "jquery.taps.js",
+  "version": "0.0.2",
   "description": "A jQuery plugins that adds tap events on mobile: 'tap', 'dbltap' and 'longtap'",
-  "main": "jquery.tap.js",
+  "main": "jquery.taps.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/avinoamr/jquery.tap.git"
+    "url": "https://github.com/avinoamr/jquery.taps.git"
   },
   "keywords": [
     "jquery",
@@ -23,7 +23,7 @@
   "author": "Roi Avinoam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/avinoamr/jquery.tap/issues"
+    "url": "https://github.com/avinoamr/jquery.taps/issues"
   },
   "devDependencies": {
     "bower": "~1.3.5"
