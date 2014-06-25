@@ -1,5 +1,5 @@
 {
-  "name": "jquery.tap",
+  "name": "jquery.tap.js",
   "version": "0.0.1",
   "description": "A jQuery plugins that adds tap events on mobile: 'tap', 'dbltap' and 'longtap'",
   "main": "jquery.tap.js",
