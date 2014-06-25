@@ -1,0 +1,28 @@
+{
+  "name": "jquery.tap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/avinoamr/jquery.tap",
+  "authors": [
+    "Roi Avinoam <avinoamr@gmail.com>"
+  ],
+  "description": "A jQuery plugins that adds tap events on mobile: 'tap', 'dbltap' and 'longtap'",
+  "main": "jquery.tap.js",
+  "keywords": [
+    "jquery",
+    "mobile",
+    "tap",
+    "dbltap",
+    "doubletap",
+    "longtap",
+    "touch",
+    "event"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
